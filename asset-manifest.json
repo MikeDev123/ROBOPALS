@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MikeDev123/ROBOPALS/static/css/main.ba8c3583.chunk.css",
+    "main.js": "/MikeDev123/ROBOPALS/static/js/main.a5360b54.chunk.js",
+    "main.js.map": "/MikeDev123/ROBOPALS/static/js/main.a5360b54.chunk.js.map",
+    "runtime-main.js": "/MikeDev123/ROBOPALS/static/js/runtime-main.6a1ad35d.js",
+    "runtime-main.js.map": "/MikeDev123/ROBOPALS/static/js/runtime-main.6a1ad35d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/MikeDev123/ROBOPALS/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.88b08eb1.chunk.js": "/MikeDev123/ROBOPALS/static/js/2.88b08eb1.chunk.js",
+    "static/js/2.88b08eb1.chunk.js.map": "/MikeDev123/ROBOPALS/static/js/2.88b08eb1.chunk.js.map",
+    "index.html": "/MikeDev123/ROBOPALS/index.html",
+    "precache-manifest.ecfa54110d6aedcb9a7e976a26dda20b.js": "/MikeDev123/ROBOPALS/precache-manifest.ecfa54110d6aedcb9a7e976a26dda20b.js",
+    "service-worker.js": "/MikeDev123/ROBOPALS/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/MikeDev123/ROBOPALS/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.ba8c3583.chunk.css.map": "/MikeDev123/ROBOPALS/static/css/main.ba8c3583.chunk.css.map",
+    "static/js/2.88b08eb1.chunk.js.LICENSE.txt": "/MikeDev123/ROBOPALS/static/js/2.88b08eb1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MikeDev123/ROBOPALS/static/media/electrical.92c3810f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1ad35d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.88b08eb1.chunk.js",
+    "static/css/main.ba8c3583.chunk.css",
+    "static/js/main.a5360b54.chunk.js"
+  ]
+}
